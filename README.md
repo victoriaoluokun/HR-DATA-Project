@@ -53,4 +53,11 @@ EDA entails exploration of data to answer some questions which includes:
 ---
 
 Here DAX expressions were explored in the course of the analysis
+
+### Data Visualisation
+---
+
+
+
+
     
