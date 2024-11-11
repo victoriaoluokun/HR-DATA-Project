@@ -57,7 +57,9 @@ Here DAX expressions were explored in the course of the analysis
 ### Data Visualisation
 ---
 
+![HR DATA CLASS PROJECT OLUOKUN VICTORIA](https://github.com/user-attachments/assets/e8a3ad13-49eb-4869-a61d-856cdfba0abc)
 
+![HR DATA CLASS PROJECT 2 OLUOKUN VICTORIA](https://github.com/user-attachments/assets/23bfd2b7-c169-4b8a-80e2-4b88e36a5156)
 
 
     
